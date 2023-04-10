@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "moeda",
+			"path": "../.."
+		},
+		{
+			"name": "WESLEY CURSO",
+			"path": "../../../WESLEY CURSO"
+		},
+		{
+			"name": "LUCIANA",
+			"path": "../../../LUCIANA"
+		},
+		{
+			"name": "projeto 2",
+			"path": "../../../projeto 2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nikel"
+	}
+}
